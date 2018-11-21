@@ -1,6 +1,6 @@
 #parking-container-wrapper {
     margin: auto;
     text-align: center;
-    width: auto;
-    height: 390px;
+    width: auto !important;
+    height: 390px !important;
 }
